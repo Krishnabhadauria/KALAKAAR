@@ -1,0 +1,2 @@
+# KALAKAAR.github.io
+This website promotes local  Artists to showcase their talent on a wider platform. This platform will provide them a stage where they can display the products to the larger audience for their financial growth, It also showcases the inspirational journey of the artist so that more people can get inspire from them while on their early stage. The audience can purchase the handcrafted items made by taking much care and pains by the Artist to deliver them the best quality products possible.
