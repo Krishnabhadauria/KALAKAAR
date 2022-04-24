@@ -37,3 +37,6 @@ Team Name: The Imagineers
 * [Krishna Bhadauria](https://github.com/Krishnabhadauria)
 * [Itee Mishra](https://github.com/IteeMishra)
 * Prateek Kumar
+* ### Made at:
+<a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=24px> </a>
+* 
