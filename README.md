@@ -10,7 +10,7 @@ This website promotes local  Artists to showcase their talent on a wider platfor
    This website promotes local  Artists to showcase their talent on a wider platform. This platform will provide them a stage where they can display the products to the larger audience for their financial growth, It also showcases the inspirational journey of the artist so that more people can get inspire from them while on their early stage. The audience can purchase the handcrafted items made by taking much care and pains by the Artist to deliver them the best quality products possible.
 
 ## Demo Video Link:
-<a href="https://youtu.be/bXHENp964Qk">https://youtu.be/dQw4w9WgXcQ</a>
+<a href="https://youtu.be/bXHENp964Qk">https://youtu.be/bXHENp964Qk</a>
 
 ## Presentation Link:
 <a href="https://docs.google.com/presentation/d/15fyI4cEUOmlwMFSTx5plmbsT_V91vg2q4QaRdA9Qyec/edit?usp=sharing"> PPT link here </a>
